@@ -1,5 +1,5 @@
 {
-    "name": "timestamp microservices",
+    "name": "timestamp-microservices",
     "version": "1.0.0",
     "description": "Hit API to convert string date to unix and utc formats",
     "main": "index.js",
